@@ -10,9 +10,7 @@
 		"cost": 12,
 		"upgradesTo": "Composite Bowman",
 		"promotions": [
-			"Ignores terrain cost",
 			"Amphibious",
-			"Can move after attacking",
 			"Slinger Withdraw",
 			"Haka War Dance",
 			"[Jaguar] ability",
