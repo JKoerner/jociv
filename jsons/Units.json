@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Jcout",
-		"unitType": "Archery",
+		"unitType": "Scout",
 		"uniqueTo": "Aliens",
 		"replaces": "Scout",
 		"movement": 12,
@@ -14,7 +14,8 @@
 			"Slinger Withdraw",
 			"Haka War Dance",
 			"[Jaguar] ability",
-			"Woodsman"
+			"Woodsman",
+			"Ignores terrain cost"
 		],
 		"attackSound": "arrow"
 	},
