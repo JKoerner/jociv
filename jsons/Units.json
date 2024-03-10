@@ -1,5 +1,26 @@
 [
 	{
+		"name": "Jcout",
+		"unitType": "Archery",
+		"uniqueTo": "Aliens",
+		"replaces": "Scout",
+		"movement": 12,
+		"strength": 7,
+		"rangedStrength": 9,
+		"cost": 12,
+		"upgradesTo": "Composite Bowman",
+		"promotions": [
+			"Ignores terrain cost",
+			"Amphibious",
+			"Can move after attacking",
+			"Slinger Withdraw",
+			"Haka War Dance",
+			"[Jaguar] ability",
+			"Woodsman"
+		],
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
@@ -11,7 +32,10 @@
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": [
+			"Logistics",
+			"Accuracy I"
+		],
 		"attackSound": "phasers"
 	}
 ]

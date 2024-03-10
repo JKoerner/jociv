@@ -1,5 +1,20 @@
 [
 	{
+		"name": "Jonument",
+		"replaces": "Monument",
+		"uniqueTo": "Aliens",
+		"culture": 20,
+		"faith": 20,
+		"production": 40,
+		"cost": 40,
+		"gold": 50,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": [
+			"Destroyed when the city is captured"
+		]
+	},
+	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Aliens",
@@ -19,7 +34,9 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": [
+			"50% of food is carried over after a new citizen is born"
+		],
 		"requiredTech": "Engineering"
 	}
 ]
