@@ -6,16 +6,16 @@
 		"replaces": "Scout",
 		"movement": 12,
 		"strength": 7,
-		"rangedStrength": 9,
+		"rangedStrength": 11,
 		"cost": 12,
 		"upgradesTo": "Composite Bowman",
+		"uniques": ["Ignores terrain cost"],
 		"promotions": [
 			"Amphibious",
 			"Slinger Withdraw",
 			"Haka War Dance",
 			"[Jaguar] ability",
-			"Woodsman",
-			"Ignores terrain cost"
+			"Woodsman"
 		],
 		"attackSound": "arrow"
 	},
