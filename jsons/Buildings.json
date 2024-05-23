@@ -2,7 +2,7 @@
 	{
 		"name": "Jonument",
 		"replaces": "Monument",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Jaliens",
 		"culture": 20,
 		"faith": 20,
 		"production": 40,
@@ -17,7 +17,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Jaliens",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -30,7 +30,7 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Jaliens",
 		"cost": 80,
 		"food": 50,
 		"hurryCostModifier": 160,
