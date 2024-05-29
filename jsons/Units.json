@@ -6,16 +6,23 @@
 		"replaces": "Scout",
 		"movement": 12,
 		"strength": 7,
-		"rangedStrength": 11,
+		"rangedStrength": 12,
 		"cost": 12,
-		"upgradesTo": "Composite Bowman",
+		"upgradesTo": "Crossbowman",
 		"uniques": ["Ignores terrain cost"],
 		"promotions": [
 			"Amphibious",
 			"Slinger Withdraw",
 			"Haka War Dance",
 			"[Jaguar] ability",
-			"Woodsman"
+			"Woodsman",
+			"Accuracy I",
+			"Accuracy II",
+			"Accuracy III",
+			"Quick Study",
+			"Scouting I",
+			"Scouting II",
+			"Rejuvenation"
 		],
 		"attackSound": "arrow"
 	},
@@ -26,14 +33,18 @@
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
-		"rangedStrength": 36,
+		"rangedStrength": 46,
 		"range": 2,
-		"cost": 500,
+		"cost": 200,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Uranium",
 		"promotions": [
 			"Logistics",
-			"Accuracy I"
+			"Accuracy I",
+			"Accuracy II",
+			"Accuracy III",
+			"Quick Study",
+			"Rejuvenation"
 		],
 		"attackSound": "phasers"
 	}
